@@ -48,7 +48,14 @@ public class Main {
     }
 
     static double task3(int a, int b, int c, int d) {
-        return a * (b + ((float) c / d));
+        float result;
+        if(d==0){
+            System.err.println("На ноль делить нельзя");
+            result = 0;
+        } else {
+            result = a * (b + ((float) c / d));
+        }
+        return result;
     }
 
     static boolean task4(int a, int b) {
