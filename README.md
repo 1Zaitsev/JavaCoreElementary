@@ -1,6 +1,6 @@
 # JavaCoreElementary
 
-This repository was created during my studying in Geek Brains University (java development).
+This repository was created during my study in Geek Brains University (java development).
 Repository contains my homeworks.
 
 Course: Java Basics by GeekBrains.ru
